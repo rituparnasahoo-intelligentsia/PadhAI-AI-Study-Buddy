@@ -9,7 +9,12 @@ It helps Indian students with:
 * 🎯 Career Guidance
 * 📅 Exam Deadlines
 * 💼 Internships & Hackathons
+  # 🤖 AI Chatbot Project
 
+## ▶️ How to Run
+1. Clone repo
+2. Install requirements
+3. Run main file
 -------------------------------------------------------------------------------------------------------------
 
 # Features
